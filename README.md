@@ -11,6 +11,7 @@ O objetivo também é que **todos os integrantes do grupo realizem pelo menos um
 ## Integrantes
 
 * Gustavo Alexandre de Arimateia
+* Danton Filipe Ribeiro Braz
 
 ---
 
